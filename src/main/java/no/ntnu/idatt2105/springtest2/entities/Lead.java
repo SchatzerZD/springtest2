@@ -16,9 +16,9 @@ public class Lead {
   @GeneratedValue
   private Long id;
 
-  private int firstNumber;
+  private double firstNumber;
 
-  private int secondNumber;
+  private double secondNumber;
 
   private String operation;
 
